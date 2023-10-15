@@ -48,7 +48,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,6 +83,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+   <module name="demo.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,8 +104,9 @@
       <workItem from="1697251968383" duration="67000" />
       <workItem from="1697252039295" duration="2142000" />
       <workItem from="1697254737492" duration="320000" />
-      <workItem from="1697255098105" duration="2396000" />
-      <workItem from="1697259660376" duration="149000" />
+
+      <workItem from="1697255098105" duration="2276000" />
+
     </task>
     <servers />
   </component>
